@@ -1,4 +1,4 @@
-# AutoDiscord Beta v1 ✨
+# AutoDiscord Beta v1 ✨    [NO BAN]
 
 **AutoDiscord Beta v1** es una herramienta automatizada en Python diseñada para facilitar la gestión y personalización de servidores de Discord.
 
